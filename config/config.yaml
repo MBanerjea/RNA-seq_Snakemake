@@ -1,0 +1,12 @@
+samples:
+  "672":
+    R1: "raw_data/672-R1.fastq.gz"
+    R2: "raw_data/672-R2.fastq.gz"
+  "673":
+    R1: "raw_data/673-R1.fastq.gz"
+    R2: "raw_data/673-R2.fastq.gz"
+
+genome_index: "reference/index/genome"
+
+ref_genome: "reference/genome.fa"
+gtf: "reference/annot.gtf"
